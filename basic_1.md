@@ -27,7 +27,7 @@
 - git commit -m "Your commit message": Records the staged changes in the repository with a descriptive message.
 
 
-``` git commit -m "Initial commit of project files" ``
+``` git commit -m "Initial commit of project files" ```
 
 ## 3. Working with Branches:
 - git branch: Lists all local branches in the repository. The asterisk indicates the current branch.
