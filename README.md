@@ -1,4 +1,4 @@
-Welcome to learning Git!
+## Welcome to learning Git!
 
 Here, I'll be including my own experiences and learning points as i grasp the concept of Git, and make my own learning from managing this repository
 
