@@ -20,7 +20,7 @@ What I plan to do in the future:
 - [ ] Delve into advanced Bash handling 
 - [ ] Bash Scripting
 
-> [!tip] Why so much Bash?
+>  *Why so much Bash?*
 >
 > Read why_bash.md , basically makes it easier to handle git repos
 
