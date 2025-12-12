@@ -11,3 +11,18 @@ What I did:
     - [x] Pushing/Pulling
 - [x] Branching
 - [x] Tagging 
+- [x] Basic git Bash commands
+
+
+What I plan to do in the future:
+- [ ] Explore Git CMD
+    For my windows users :)
+- [ ] Delve into advanced Bash handling 
+- [ ] Bash Scripting
+
+> [!tip] Why so much Bash?
+>
+> Read why_bash.md , basically makes it easier to handle git repos
+
+
+
