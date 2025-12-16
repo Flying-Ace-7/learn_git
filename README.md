@@ -24,5 +24,18 @@ What I plan to do in the future:
 >
 > Read why_bash.md , basically makes it easier to handle git repos
 
+## Resources
+
+- [Why Bash?](./why_bash.md)
+- [Git Documentation](https://git-scm.com/doc)
+- [GitHub Guides](https://guides.github.com)
+
+## Getting Started
+
+To get started with this repository, clone it and explore the branches to see different Git concepts in action.
+
+## Author's note
+I hope this repository is useful in the future.
+
 
 
