@@ -34,4 +34,8 @@ What I plan to do in the future:
 
 To get started with this repository, clone it and explore the branches to see different Git concepts in action.
 
+## Author's note
+I hope this repository is useful in the future.
+
+
 
